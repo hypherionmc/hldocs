@@ -1,0 +1,27 @@
+input: .
+output: .retype
+url: https://hyperlighting.firstdarkdev.xyz
+branding:
+  title: Hyper Lighting
+  label: Docs
+links:
+  - text: Discord
+    link: https://discord.gg/PdVnXf9
+  - text: Website
+    link: https://hypherionmc.me
+  - text: Github
+    link: https://github.com/hypherionmc/hldocs
+footer:
+  copyright: "&copy; {{ year }} HypherionMC/HypherionSA. All rights reserved."
+meta:
+  title: " | Hyper Lighting Docs"
+search:
+  placeholder: Search
+snippets:
+  lineNumbers:
+    - js
+    - json
+    - toml
+edit:
+  repo: "https://github.com/hypherionmc/hldocs"
+  branch: master
