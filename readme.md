@@ -20,29 +20,29 @@ Hyper Lighting adds new and sometimes useful light sources to Minecraft. It was 
 ||| Light Sources
 The light sources added by this mod includes:
 
-* [Torches](help/blocks/torches.md) that can be turned on and off (based on the Default Minecraft Torches)
-* [Lanterns](help/blocks/lanterns.md) that can be turned on and off
-* [Tiki Torches](help/blocks/tiki-torches.md) (cause why not)
-* [Underwater Lantern/Torch](help/blocks/underwater-lighting.md) (Yes they work underwater. Why? Spongebob makes campfires underwater and you wanna ask me why??)
-* [Candles](help/blocks/candles.md)
+* [Torches](help/blocks/torches/) that can be turned on and off (based on the Default Minecraft Torches)
+* [Lanterns](help/blocks/lanterns/) that can be turned on and off
+* [Tiki Torches](help/blocks/tiki-torches/) (cause why not)
+* [Underwater Lantern/Torch](help/blocks/underwater-lighting/) (Yes they work underwater. Why? Spongebob makes campfires underwater and you wanna ask me why??)
+* [Candles](help/blocks/candles/)
 * ~~Disco Light (Because reasons)~~ -> Currently not available. May be added back in the future
-* [Candle in a Jar](help/items/candle-in-jar.md) (A handheld item that emits light as you move. -> Only Available when RGBLib is installed)
-* [Colored Redstone Lamps](help/blocks/redstone-lamps.md) (A colored variation of the minecraft redstone lamps)
-* [Solar Powered Fence Lights](help/blocks/solar-fence.md) A Solar Powered Fence light with remote switches
-* [Switch Box](help/blocks/switch-box.md) A block used to control up to 6 Solar Powered Fence Lights
-* [Campfires](help/blocks/campfires.md) 2 Campfires based on the Minecraft 1.15+ campfires. Both allow you to cook food and support colored Lighting. One of them has a suprise when placed xD
-* [Button lights](help/blocks/button-lights.md) Buttons that emits light. Think of them as night lights that can trigger redstone
-* [Fluorescent Lights](help/blocks/flores-light.md) Battery Powered, dyeable fluorescent lights
-* [Jack O Lanterns](help/blocks/jack-lantern.md) Halloween Themes Pumpkin lights
+* [Candle in a Jar](help/items/candle-in-jar/) (A handheld item that emits light as you move. -> Only Available when RGBLib is installed)
+* [Colored Redstone Lamps](help/blocks/redstone-lamps/) (A colored variation of the minecraft redstone lamps)
+* [Solar Powered Fence Lights](help/blocks/solar-fence/) A Solar Powered Fence light with remote switches
+* [Switch Box](help/blocks/switch-box/) A block used to control up to 6 Solar Powered Fence Lights
+* [Campfires](help/blocks/campfires/) 2 Campfires based on the Minecraft 1.15+ campfires. Both allow you to cook food and support colored Lighting. One of them has a suprise when placed xD
+* [Button lights](help/blocks/button-lights/) Buttons that emits light. Think of them as night lights that can trigger redstone
+* [Fluorescent Lights](help/blocks/flores-light/) Battery Powered, dyeable fluorescent lights
+* [Jack O Lanterns](help/blocks/jack-lantern/) Halloween Themes Pumpkin lights
 * ~~Fog Machine~~ -> Might come back soon
-* [Lava Lamps](help/blocks/lava-lamp.md) (Does not actually use lava!)
+* [Lava Lamps](help/blocks/lava-lamp/) (Does not actually use lava!)
 * ~~Neon Signs~~ -> Removed due to complications with the GUI. This might be added back
-* [Unclear glass](help/blocks/unclear-glass.md) Useful for when you want to spy on your hot neighbour without letting light in
-* [Solar Panel](help/blocks/solar-panel.md) because power
-* [Colored Water](help/blocks/colored-water.md) - It's colored, but you can drink it
+* [Unclear glass](help/blocks/unclear-glass/) Useful for when you want to spy on your hot neighbour without letting light in
+* [Solar Panel](help/blocks/solar-panel/) because power
+* [Colored Water](help/blocks/colored-water/) - It's colored, but you can drink it
 
 !!!info
-Almost all lights can be dyed by right-clicking them with Dye. If a light supports being dyed, it will be displayed on the tooltip. These lights also emit Colored Lighting based on their color when RGBLib (Formerly Hyper Lighting Core) is installed. [See more info here](help/integrations.md).
+Almost all lights can be dyed by right-clicking them with Dye. If a light supports being dyed, it will be displayed on the tooltip. These lights also emit Colored Lighting based on their color when RGBLib (Formerly Hyper Lighting Core) is installed. [See more info here](help/integrations/).
 !!!
 |||
 
