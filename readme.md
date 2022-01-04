@@ -39,6 +39,7 @@ The light sources added by this mod includes:
 * ~~Neon Signs~~ -> Removed due to complications with the GUI. This might be added back
 * [Unclear glass](help/blocks/unclear-glass.md) Useful for when you want to spy on your hot neighbour without letting light in
 * [Solar Panel](help/blocks/solar-panel.md) because power
+* [Colored Water](help/blocks/colored-water.md) - It's colored, but you can drink it
 
 !!!info
 Almost all lights can be dyed by right-clicking them with Dye. If a light supports being dyed, it will be displayed on the tooltip. These lights also emit Colored Lighting based on their color when RGBLib (Formerly Hyper Lighting Core) is installed. [See more info here](help/integrations.md).
