@@ -2,6 +2,16 @@
 order: a
 title: Colored Lighting
 ---
+!!!warning
+Unfortunately, due to changes in the Minecraft Rendering Engine in 1.17+, it's not possible for me to port the colored light library mentioned below.
+
+For this reason, colored lighting will be totally unavailable in 1.17+ until a replacement lib can be found, or I can magically get it working.
+
+You can still use Hyper Lighting as normal, you just won't have colored lighting.
+
+So sorry about this
+!!!
+
 ||| About
 Hyper Lighting supports addon mods to emit colored light from its light sources. Please find the instructions below to enable it.
 |||
