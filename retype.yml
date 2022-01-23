@@ -10,7 +10,7 @@ links:
   - text: Website
     link: https://hypherionmc.me
   - text: Github
-    link: https://github.com/hypherionmc/hldocs
+    link: https://github.com/Exploding-Creeper/Hyper-Lighting/
 footer:
   copyright: "&copy; {{ year }} HypherionMC/HypherionSA. All rights reserved."
 meta:
