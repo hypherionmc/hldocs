@@ -14,7 +14,7 @@ In addition, glowing colored water gives off 3 minutes of night-vision when cons
 |||
 
 !!! danger
-Render Regions on Optifine stops the water from rendering in the world. Make sure you have them disabled, or you won't see the water
+On older versions of this mod, Optifine Render Regions stops the water from rendering in the world. Make sure you have them disabled, or you won't see the water
 !!!
 
 ### Crafting
