@@ -34,7 +34,7 @@ The light sources added by this mod includes:
 * [Button lights](help/blocks/button-lights/) Buttons that emits light. Think of them as night lights that can trigger redstone
 * [Fluorescent Lights](help/blocks/flores-light/) Battery Powered, dyeable fluorescent lights
 * [Jack O Lanterns](help/blocks/jack-lantern/) Halloween Themes Pumpkin lights
-* ~~Fog Machine~~ -> Might come back soon
+* [Fog Machine](help/blocks/fog_machine/) -> I'm feeling a bit foggy
 * [Lava Lamps](help/blocks/lava-lamp/) (Does not actually use lava!)
 * ~~Neon Signs~~ -> Removed due to complications with the GUI. This might be added back
 * [Unclear glass](help/blocks/unclear-glass/) Useful for when you want to spy on your hot neighbour without letting light in
